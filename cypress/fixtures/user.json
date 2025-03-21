@@ -1,0 +1,12 @@
+{
+  "id": "67dcced93050774778413c7c",
+  "userName": "qauser1742524120971",
+  "email": "qauser1742524120971@example.com",
+  "password": "$2a$10$i4t0aXDoIr7vN/qyp/zHJ.qdqscyyfyRxGC/GHGQEX5ODXNiJOxkK",
+  "roles": [
+    "ROLE_ADMIN"
+  ],
+  "firstName": null,
+  "lastName": null,
+  "fullName": null
+}
