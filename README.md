@@ -6,8 +6,7 @@ This project contains automated test cases for:
 - UI validation and form handling (`exercise1.cy.js`)
 - Exploratory testing documentation (`exercise2`)
 - API + UI end-to-end test automation (`exercise3.cy.js`)
-- Mochawesome reporter setup for clean and consolidated test reportingnavigating 
- It is part of the QA SDET Assessment.
+- Mochawesome reporter setup for clean and consolidated test reporting.
 
 Tech Stack
 
